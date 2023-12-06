@@ -2,7 +2,7 @@
 Repository ini digunakan untuk keperluan tugas akhir AS3111 Mekanika Benda Langit (1-2023). Silakan unduh repository ini menjadi file .zip  untuk dikerjakan pada Google Colab atau Jupyter Notebook.
 
 ## Deskripsi Umum
-* Waktu pengerjaan tugas ini adalah 2 pekan terhitung sejak tugas ini diberikan, yaitu pada tanggal 20 November 2023, sehingga *deadline* pengumpulan tugas adalah pada tanggal **4 Desember 2023 pukul 23.59 WIB**.
+* Waktu pengerjaan tugas ini adalah 2 pekan terhitung sejak tugas ini diberikan, yaitu pada tanggal 20 November 2023, sehingga *deadline* pengumpulan tugas adalah pada tanggal **11 Desember 2023 pukul 23.59 WIB**.
 * Tugas terdiri dari 2 bagian sebagai berikut:
   - **Problem 1**: Menentukan posisi titik Lagrange
   - **Problem 2**: Membuat plot _Zero Velocity Contour_ (ZVC)
